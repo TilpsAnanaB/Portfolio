@@ -52,166 +52,84 @@ body{
 li{
 
     font-family: 'Times New Roman', Times, serif;
-
     list-style-type: none;
-
     border: 3px solid;
-
     border-radius: 35px;
-
     border-color: #FFAD84;
-
     padding: 10px;
-
     float: right;
-
     margin: 0 10px;
-
     color: #858259;
-
 }
-
 li:hover{
-
     font-size: large;
-
     background-color: #FFAD84;
-
 }
-
 .body{
-
     float: right;
-
     margin-left:50px;
-
     margin-top: 100px;
-
     position: fixed;
-
 }
-
 .hipDog{
-
     width: 500px;
-
     height: 300px;
-
     float: right;
-
     margin: 10px;
-
     border-radius: 200px;
-
     background-color: #696646;
-
 }
-
 h1{
-
     margin: 10px 0;
-
     color: #696646;
-
 }
-
 p{
-
     color: #858259;
-
     font-size: 20px;
-
     width: 50%;
-
 }
-
 .buttonWalk{
-
     color: #696646;
-
     border-color: #FFC47E;
-
     border-radius: 25px;
-
     padding: 10px;
-
     background-image: -webkit-linear-gradient(#FFAD84, #FFC47E);
-
     font-family: 'Times New Roman', Times, serif;
-
     font-size: x-large;
-
-    
-
 }
-
-
 form{
-
     padding: 2%;
-
     text-align: left;
-
     background-image: -webkit-linear-gradient(#FFAD84, #FFC47E, #FFAD84);
-
     border-radius: 20px;
-
     width: 300px;
-
 }
-
 .messageContainer{
-
     display: flex;
-
     height: 100vh;
-
     align-items: center;
-
     justify-content: center;
-
 }
-
 label{
-
     display: block;
-
     margin: 10px;
-
 }
-
 input, textarea{
-
     width: 100%;
-
     padding: 8px;
-
     margin-bottom: 4px;
-
     box-sizing: border-box;
-
     border: none;
-
 }
-
 #submit{
-
     background-color: #B2F77D;
-
     color: #858259;
-
     padding: 10px;
-
     cursor: pointer;
-
     border: none
-
 }
-
 #submit:hover{
-
     background-color: #88D453;
-
 }
 
 .box1{
@@ -248,7 +166,7 @@ input, textarea{
     border-radius: 30px;
     float: left;
     border: 5px solid;
-    border-color: #696646;
+    border-color: #FFAD84;
 }
 .box4{
     width: 400px;
@@ -259,5 +177,5 @@ input, textarea{
     border-radius: 30px;
     float: left;
     border: 5px solid;
-    border-color: #696646;
+    border-color: #FFAD84;
 }
