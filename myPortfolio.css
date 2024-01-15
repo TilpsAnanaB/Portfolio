@@ -11,7 +11,7 @@ body{
 .bg{
 
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: radial-gradient(#FFF78A, #FFC47E);
 
 }
